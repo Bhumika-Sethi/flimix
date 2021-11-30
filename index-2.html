@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login/SignUp</title>
+    <link rel="stylesheet" href="style-2.css">
+</head>
+<body>
+    <div class="showcase">
+        <div class="showcase-top">
+            <img src="images\Free_Sample_By_Wix__4_-removebg-preview (1).png" height="60" width="100" alt="">
+        </div>
+        <div class="container">
+            <form action="POST" class="form" id="login">
+                <h1 class="form-title">Sign In</h1>
+                <!-- <div class="form-message form-message-incorrect">Incorrect Username/Password Combination</div> -->
+                <div class="form-input-group first">
+                    <input type="text" class="form-input" autofocus placeholder="Email or Phone Number">
+                    <div class="form-input-error-message">Please enter a valid email address or phone number.</div>
+                </div>
+
+                <div class="form-input-group">
+                    <input type="Password" class="form-input"  placeholder="Password">
+                    <div class="form-input-error-message">Your password must contain between 4 and 60<br> characters.</div>
+                </div>
+
+                <button class="form-button" type="submit"><a href="main-website.html">Sign In</a></button>
+                <div class="remember-help">
+                    <div class="remember-me">
+                        <input type="checkbox" name="" id="Remember-me">
+                        Remember me
+                    </div>
+                    <div class="need-help">
+                       <a href="need-help-anchor">Need help?</a> 
+                    </div>
+                </div>
+                <p class="form-text">
+                    <a href="#" class="form-link facebook">Login with Facebook</a>
+                </p>
+                <p class="form-text">
+                    New to filmix?
+                    <a href="#" class="form-link" id="Link-create-account">Sign up now.</a>
+                </p>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

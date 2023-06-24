@@ -52,13 +52,15 @@ Flimix takes pride in its original productions, offering exclusive content that 
 Flimix boasts a user-friendly interface designed to enhance your browsing and streaming experience. With intuitive navigation, easy search options, and visually appealing layouts, finding your next favorite movie or show is effortless. Dive into a world of entertainment with a seamless and intuitive interface at your fingertips.
 
 
+![Screenshot (434)](https://github.com/Bhumika-Sethi/flimix/assets/67055739/740d34d1-b664-41b3-8413-2d3f5b8ad8c4)
+
 
 
 # 9. Flexible Subscription Plans:
 Flimix offers flexible subscription plans to fit your needs. Choose from monthly, quarterly, or annual plans, with options for multiple screens and streaming quality. Enjoy unlimited access to a vast library of entertainment, all at a competitive price point.
 
 
-![Screenshot (438)](https://github.com/Bhumika-Sethi/flimix/assets/67055739/44d50859-9278-4258-be73-a5bbf1224dec)
+![Screenshot (429)](https://github.com/Bhumika-Sethi/flimix/assets/67055739/01d4919f-3ead-4e33-9006-16ee315e2379)
 
 
 Get ready to embark on a thrilling cinematic journey with Flimix. From heart-pounding action to heart

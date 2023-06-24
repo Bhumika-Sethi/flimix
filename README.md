@@ -61,6 +61,4 @@ Flimix offers flexible subscription plans to fit your needs. Choose from monthly
 ![Screenshot (432)](https://github.com/Bhumika-Sethi/flimix/assets/67055739/1866667f-05aa-463a-9d47-3cdaab1b44c4)
 
 
-![Screenshot (429)](https://github.com/Bhumika-Sethi/flimix/assets/67055739/d671ac91-7856-4763-b6dc-ce3fb458912d)
-
 Get ready to embark on a thrilling cinematic journey with Flimix. From heart-pounding action to heart
